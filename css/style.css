@@ -1,0 +1,241 @@
+/*header start*/
+body{
+     font-family: sans-serif;
+}
+.header{
+
+}
+.wrapper{
+     overflow: hidden;
+     width: 70%;
+     margin: 0 auto;
+}
+.logo{
+     width: 13%;
+     float: left;
+}
+.logo a{
+
+}
+.logo a img{
+     width: 100%;
+}
+.menu{
+     width: 80%;
+     float: right;
+}
+.menu ul{
+     list-style: none;
+}
+.menu ul li{
+     float: left;
+}
+.menu ul li a {
+     text-decoration: none;
+     margin: 0 20px;
+     color: #4a2626;
+}
+.menu ul li a:hover{
+     color: #B71B3B;
+}
+.menu ul li a:last-child{
+     margin-right: 0;
+}
+/*header end*/
+/*banner start*/
+.banner{
+     background-image: url(../image/notaryy.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+}
+.b_content{
+     width: 50%;
+}
+.b_content h1{
+     font-family: sans-serif;
+     font-weight: bold;
+     font-size: 51px;
+     color: white;
+     margin-top: 60px;
+     margin-bottom: 30px;
+}
+.b_content p{
+     font-family: sans-serif;
+     font-size: 16ox;
+     font-weight: normal;
+     color: white;
+}
+.b_content button{
+     height: 30px;
+     width: 170px;
+     color: white;
+     margin: 50px 0;
+     background-color: #BC253F;
+     border: none;
+     cursor: pointer;
+}
+/*banner end*/
+/*content start*/
+.content{
+     overflow: hidden;
+     width: 70%;
+     margin: 0 auto;
+     padding-bottom: 70px;
+}
+.c_content{
+     overflow: hidden;
+     width: 70%;
+     margin: 0 auto;
+     padding-bottom: 70px;
+}
+.c_content h2{
+     font-family: sans-serif;
+     font-size: 25px;
+     text-align: center;
+     margin-top: 80px; 
+}
+.c_content p{
+     width: 85%;
+     margin: 0 auto;
+}
+.s_item{
+     width: 33%;
+     float: left;
+     padding-bottom: 70px;
+}
+.s_item img{
+     margin-left: 95px;
+}
+.s_item p{
+     width: 70%;
+     margin-left: 60px;
+}
+.s_item p:last-child{
+     margin-right: 0;
+}
+.c_left{
+     width: 45%;
+     float: left;
+     margin-top: 30px;
+}
+.c_left h1{
+     font-size: 20px;
+}
+.c_left p{
+     color: gray;
+}
+.c_left button{
+     height: 30px;
+     color: white;
+     margin: 20px 0;
+     background-color: #BC253F;
+     border: none;
+     cursor: pointer;
+}
+.c_right{
+     width: 50%;
+     float: right;
+}
+.single_item{
+     width: 20%;
+     float: left;
+     margin-left: 100px;
+}
+.single_item:nth-child(odd){
+     margin-right: 0;
+}
+.single_item:nth-child(even){
+}
+.icon{
+     margin-left: 70px;
+}
+.text{
+     text-align: center;
+}
+.text h4{
+     margin: 0;
+}
+.text p{
+     width: 100%;
+     color: gray ;
+}
+.but{
+     height: 30px;
+     width: 170px;
+     color: white;
+     margin: 50px 0;
+     background-color: #BC253F;
+     border: none;
+     cursor: pointer; 
+     margin-left: 400px; 
+}
+/*content end*/
+/*footer start*/
+footer{
+     min-height: 200px;
+     background-color: black;
+}
+.container2{
+     overflow: hidden;
+     width: 70%;
+     margin: 0 auto;
+}
+.foot{
+     overflow: hidden;
+     padding: 70px 0;
+}
+.contact{
+     float: left;
+     width: 30%;
+}
+.contact h3{
+     color: #BC253F;
+}
+.contact p{
+     color: #555D68;
+
+}
+.link{
+     width: 30%;
+     float: left;
+     margin-left: 90px;
+}
+.link h3{
+     color: #BC253F;
+}
+.link p{
+     color: #555D68;
+     font-size: 14px;
+     margin: 5px 0;
+}
+.news{
+     float: right;
+     width: 30%;
+}
+.news h3{
+     color: #BC253F;
+}
+.news p{
+     color: #555D68;
+     line-height: 20px;
+}
+.f_mail{
+     margin-top: 40px;
+}
+.f_mail input{
+     height: 30px;
+     width: 150px;
+     background-color: black;
+}
+.f_mail button{
+     height: 35px;
+     width: 80px;
+     color: white;
+     background-color: #BC253F;
+     cursor: pointer; 
+
+}
+
+
+
